@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm mkitsa 👋
 
 <!--
@@ -18,7 +17,7 @@
 Passionate engineer blending hardware and software to solve real-world problems in technology and development. Experienced in building intelligent systems with computer vision and machine vision technologies. ECE and Embedded systems. Open to collaborations and opportunities!
 
 ## 🛠️ Expertise & Tools
-- **Core Skills**: Computer Vision (OpenCV, TensorFlow), Machine Vision, ML, AI, Image Processing
+- **Core Skills**: Computer Vision (OpenCV, TensorFlow), Machine Vision, ML, AI, Image Processing, Embedded Systems, Controls Systems
 - **Languages**: Python, C++, JavaScript, MATLAB, Zebra Aurora MIL
 - **Frameworks**: PyTorch, TensorFlow,
 - **Engineering**: Embedded Systems, Signal Processing, AWS etc.
@@ -28,7 +27,7 @@ Passionate engineer blending hardware and software to solve real-world problems 
   *UWO*
 
 ## 🌐 Connect
-📧 yabukumai@gmail.com | 🐦 Twitter: @mkitsa
+📧 yabukumai@gmail.com | 🐦 Twitter: Coming Soon!
 
 ## 🔥 Featured Projects - Coming Soon!
 - Projects showcasing Computer Vision at work – Live demo & code
