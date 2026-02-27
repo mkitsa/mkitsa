@@ -1,4 +1,4 @@
-# Hi, I'm mkitsa 👋
+# Hi, I'm myabuku 👋
 
 <!--
 - 🔭 I’m currently working on between software and hardware solutions for manufacturing needs in support of industry 4.0 and beyond
